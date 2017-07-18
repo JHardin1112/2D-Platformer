@@ -1,0 +1,39 @@
+Mono path[0] = 'C:/Users/jhardin/Documents/Unity Projects/2D Platformer/FirstBuild_Data/Managed'
+Mono config path = 'C:/Users/jhardin/Documents/Unity Projects/2D Platformer/FirstBuild_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/jhardin/Documents/Unity Projects/2D Platformer/FirstBuild_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55381
+Multi-casting "[IP] 192.168.4.116 [Port] 55381 [Flags] 2 [Guid] 1368739510 [EditorId] 1342641857 [Version] 1048832 [Id] WindowsPlayer(JHardin) [Debug] 0" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55381]
+PlayerConnection already initialized - listening to [0.0.0.0:55381]
+Player data archive not found at `C:/Users/jhardin/Documents/Unity Projects/2D Platformer/FirstBuild_Data/data.unity3d`, using local filesystem
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     1792 MB
+    Driver:   10.18.10.4425
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\jhardin\Documents\Unity Projects\2D Platformer\FirstBuild_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\jhardin\Documents\Unity Projects\2D Platformer\FirstBuild_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\jhardin\Documents\Unity Projects\2D Platformer\FirstBuild_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\jhardin\Documents\Unity Projects\2D Platformer\FirstBuild_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\jhardin\Documents\Unity Projects\2D Platformer\FirstBuild_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\jhardin\Documents\Unity Projects\2D Platformer\FirstBuild_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\jhardin\Documents\Unity Projects\2D Platformer\FirstBuild_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\jhardin\Documents\Unity Projects\2D Platformer\FirstBuild_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\jhardin\Documents\Unity Projects\2D Platformer\FirstBuild_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\jhardin\Documents\Unity Projects\2D Platformer\FirstBuild_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\jhardin\Documents\Unity Projects\2D Platformer\FirstBuild_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\jhardin\Documents\Unity Projects\2D Platformer\FirstBuild_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\jhardin\Documents\Unity Projects\2D Platformer\FirstBuild_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\jhardin\Documents\Unity Projects\2D Platformer\FirstBuild_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.043 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.580220 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 24c8 -> priority: 1 
+  Thread -> id: 2420 -> priority: 1 

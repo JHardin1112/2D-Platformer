@@ -6,6 +6,7 @@ TagManager:
   tags:
   - KillPlane
   - Checkpoint
+  - MovingPlatform
   layers:
   - Default
   - TransparentFX
@@ -40,6 +41,12 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: World Objects
+    uniqueID: 2258784301
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 2721982621
     locked: 0
